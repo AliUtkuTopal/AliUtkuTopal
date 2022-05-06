@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AliUtkuTopal, https://aliutkutopal.com
-- 👀 I’m interested in creating and designing 2D mobile and desktop games and softwares. I'm also interested in creating websites.
+- 👀 I’m interested in creating and designing 2D mobile and desktop games and software. I'm also interested in creating websites.
 - 📫 Contact -> ali.utku.topal@gmail.com
 - :video_game: Find me on Google Play -> https://play.google.com/store/apps/dev?id=7410159461751310942
